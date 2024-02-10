@@ -1,0 +1,19 @@
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-top: 5vh;
+  flex-direction: column;
+}
+
+.pandaimage img{
+  width: 180px;
+}
+.choice{
+  display: flex;
+
+}
+.choice *{
+  margin: 3px;
+}
